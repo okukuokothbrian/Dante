@@ -1,0 +1,40 @@
+.navigation {width: 99vw;
+     border: 1px; color: bisque;
+    background-color: aqua;
+border-radius: 5px;
+top: 0%;
+height: 50px;
+align-items: center;
+left: 0%;
+justify-content: space-evenly;
+position: fixed;
+display: flex;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.brian {display: flex; 
+    gap: 20px; 
+    flex-wrap: wrap;}
+.header{
+    margin-top: 80px;
+    text-align: center;
+}
+.samuel{
+    border: 1px solid burlywood
+    width: 280px;
+    padding: 20;
+    height: 170;
+    text-align: center;  
+}
+.footer{
+    border: 1px;
+    background-color: aquamarine;
+    margin-top: 20px;
+    height: 120;
+    border-radius: 7px;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
